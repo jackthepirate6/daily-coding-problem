@@ -1,5 +1,9 @@
 #include <bits/stdc++.h> 
 using namespace std; 
+
+/*
+reference -- https://www.geeksforgeeks.org/program-count-digits-integer-3-different-methods/
+*/
   
 int countDigit(long long n) 
 { 
